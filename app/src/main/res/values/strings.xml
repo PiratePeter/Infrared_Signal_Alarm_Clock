@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Infrared Signal Alarm Clock</string>
+    <string name="action_basictheme">Basic Theme</string>
+    <string name="action_marine">Marine</string>
+    <string name="action_blackbeard">Blackbeard</string>
+</resources>

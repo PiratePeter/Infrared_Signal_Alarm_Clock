@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ch.piratepeter.infraredsignalalarmclock.MainActivity">
+
+    <item
+        android:id="@+id/action_basictheme"
+        android:orderInCategory="1"
+        android:title="@string/action_basictheme"
+        app:showAsAction="never" /> <!-- never -> hidden in hamburger menu -->
+
+    <item
+        android:id="@+id/action_marine"
+        android:orderInCategory="2"
+        android:title="@string/action_marine"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_blackbeard"
+        android:orderInCategory="3"
+        android:title="@string/action_blackbeard"
+        app:showAsAction="never" />
+
+</menu>
